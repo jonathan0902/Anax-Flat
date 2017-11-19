@@ -32,12 +32,24 @@ return [
                 "url"   => $this->di->get("url")->create("test"),
                 "title" => t("Test site")
             ],
+
+            "Grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Vertical Grid")
+            ],
+
+            "Typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typography")
+            ],
         ],
     ],
 
 
 
-/*
+
     // Used as menu together with responsive menu
     // Name of this menu
     "navbarMax" => [
@@ -63,7 +75,7 @@ return [
             ],
         ],
     ],
-*/
+
 
 
     /**
