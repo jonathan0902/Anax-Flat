@@ -14,6 +14,13 @@ return [
         // Here comes the menu structure
         "items" => [
 
+            "Analysis" => [
+                "text"  => t("Analysis"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analysis from kmom assignments"),
+                "mark-if-parent" => true,
+            ],
+
             "report" => [
                 "text"  => t("Report"),
                 "url"   => $this->di->get("url")->create("report"),
