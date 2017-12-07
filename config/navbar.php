@@ -57,6 +57,19 @@ return [
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("Theme")
             ],
+			
+			"Images" => [
+                "text"  => t("Images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Images")
+            ],
+			
+			"Blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg from kmom assignments"),
+                "mark-if-parent" => true,
+            ],
         ],
     ],
 
