@@ -57,14 +57,14 @@ return [
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("Theme")
             ],
-			
-			"Images" => [
+
+            "Images" => [
                 "text"  => t("Images"),
                 "url"   => $this->di->get("url")->create("images"),
                 "title" => t("Images")
             ],
-			
-			"Blogg" => [
+
+            "Blogg" => [
                 "text"  => t("Blogg"),
                 "url"   => $this->di->get("url")->create("blogg"),
                 "title" => t("Blogg from kmom assignments"),

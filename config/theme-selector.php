@@ -69,6 +69,46 @@ return [
             ]
         ],
 
+        "DesignOne" => [
+            "title"      => "DesignOne",
+            "class"      => "DesignOne",
+            "stylesheets" => [
+                "css/DesignOne.min.css"
+            ]
+        ],
+
+        "DesignTwo" => [
+            "title"      => "DesignTwo",
+            "class"      => "DesignTwo",
+            "stylesheets" => [
+                "css/DesignTwo.min.css"
+            ]
+        ],
+
+        "DesignThree" => [
+            "title"      => "DesignThree",
+            "class"      => "DesignThree",
+            "stylesheets" => [
+                "css/DesignThree.min.css"
+            ]
+        ],
+
+        "DesignFour" => [
+            "title"      => "DesignFour",
+            "class"      => "DesignFour",
+            "stylesheets" => [
+                "css/DesignFour.min.css"
+            ]
+        ],
+
+        "DesignFive" => [
+            "title"      => "DesignFive",
+            "class"      => "DesignFive",
+            "stylesheets" => [
+                "css/DesignFive.min.css"
+            ]
+        ],
+
         "separator2" => "------------------------------------------------",
 
         "fun"       => [

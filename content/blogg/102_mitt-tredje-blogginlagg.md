@@ -8,6 +8,9 @@ Vacker Bild.
 ==================================
 
 Bilden tog på en onsdag. Denna bild togs för att visa den här vackra målningen på BTH. Bilden togs av en mobil kamra från Huewie P10 med specsen
+
+<!--more-->
+
 Leica-branded dual-camera with 12MP color and 20MP monochrome sensors
 F2.2 aperture
 OIS on the color sensor

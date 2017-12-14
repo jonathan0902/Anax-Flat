@@ -7,7 +7,11 @@ category:
 En vanlig dag i klassrummet.
 ==================================
 
-Denna bild tog på en vacker sen onsdag för att vissa vilken bra arbetsroo vi har i vårt klassrum. Bilden togs av en mobil kamra från Huewie P10 med specsen
+Denna bild tog på en vacker sen onsdag för att vissa vilken bra arbetsroo vi har i vårt klassrum. Bilden togs av en mobil kamra från Huewie
+
+<!--more-->
+
+P10 med specsen
 Leica-branded dual-camera with 12MP color and 20MP monochrome sensors
 F2.2 aperture
 OIS on the color sensor

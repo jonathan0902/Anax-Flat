@@ -7,7 +7,11 @@ category:
 BiljetFörsäljning.
 ==================================
 
-Bilden tog på en onsdag. Denna bild togs för att vissa hur hårt vi arbetar för att sälja Hjul biljeter. Bilden togs av en mobil kamra från Huewie P10 med specsen
+Bilden tog på en onsdag. Denna bild togs för att vissa hur hårt vi arbetar för att sälja Hjul biljeter. Bilden togs av en mobil kamra från
+
+<!--more-->
+
+Huewie P10 med specsen
 Leica-branded dual-camera with 12MP color and 20MP monochrome sensors
 F2.2 aperture
 OIS on the color sensor
